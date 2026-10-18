@@ -11,7 +11,7 @@ O objetivo do projeto é utilizar estruturas de lista, biblioteca colorama, exib
 
 ## Tecnologias utilizadas
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 
 ![VSCode](https://img.shields.io/badge/VSCode-36465D?style=flat&logo=vscode&logoColor=white)
 
