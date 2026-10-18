@@ -11,10 +11,15 @@ O objetivo do projeto é utilizar estruturas de lista, biblioteca colorama, exib
 
 ## Tecnologias utilizadas
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23ffffff?style=for-the-badge&logo=markdown&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/VSCode-36465D?style=flat&logo=vscode&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ## Como executar
 
