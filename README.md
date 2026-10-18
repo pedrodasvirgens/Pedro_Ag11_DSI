@@ -44,8 +44,8 @@ Durante os testes, foram verificadas as correspondências entre os cinco níveis
 ## Estrutura do projeto
 
     pesquisa-atendimento/
-    ├── app.py
     ├── README.md
+    ├── app.py
     └── exibição no terminal
 
 # Autor
