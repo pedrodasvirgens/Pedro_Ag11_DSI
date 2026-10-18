@@ -26,11 +26,11 @@ O objetivo do projeto é utilizar estruturas de lista, biblioteca colorama, exib
 
 4. Instale a biblioteca colorama pelo terminal com:
 
-`python -m pip install colorama´
+`python -m pip install colorama`
 
 5. Execute o programa pelo terminal utilizando o nome do arquivo:
 
-`python app.py´
+`python app.py`
 
 
 O programa apresentará os cinco níveis de água do reservatório, cada um associado a uma mensagem de alerta e a uma cor específica: vermelho para o nível 1, amarelo para o nível 2, verde para o nível 3, ciano para o nível 4 e azul para o nível 5.
